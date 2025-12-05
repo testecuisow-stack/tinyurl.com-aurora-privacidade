@@ -119,9 +119,6 @@ Estes Termos de Uso são regidos pelas leis da República Federativa do Brasil. 
 2.11. Alterações nos Termos
 Podemos modificar estes Termos de Uso a qualquer momento. As alterações entrarão em vigor imediatamente após a publicação no aplicativo. Seu uso continuado após as alterações constituirá aceitação dos novos termos.
 2.12. Contato
-Para dúvidas sobre estes Termos de Uso ou a Política de Privacidade, entre em contato:
-E-mail: contato@auroraapp.com.br
-E-mail para questões de privacidade: privacidade@auroraapp.com.br
 
 CONSENTIMENTO
 Ao criar uma conta e utilizar o Aurora, você confirma que:
